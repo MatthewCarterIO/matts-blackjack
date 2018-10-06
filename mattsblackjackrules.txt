@@ -1,0 +1,37 @@
+Blackjack Rules:
+
+- The aim of Blackjack is for the player's hand total to beat that of the dealer's without going above 21.
+- One card is dealt face up to the player and then to the dealer.
+- A second card is dealt face up to the player and face down to the dealer.
+- If the player has a total of 21 with two cards they have "blackjack". The dealer will reveal their hand and unless
+they too have blackjack, the player wins.
+- When the player does not have blackjack, the dealer offers one or more cards until he/she does not
+want another or the total of their hand exceeds 21 and they are "bust". By taking a card the player takes a "hit".
+The player "stands" when he/she does not want to take an additional card.
+- If the player is bust after receiving one or more cards, the dealer does not need to take any more cards and the
+player automatically loses.
+- If the player is not bust, the dealer then reveals the hidden card in their hand. As with the player, if they don't
+have blackjack there is the opportunity to take one or more additional cards. The dealer will only stand when their
+hand total is a minimum of 17.
+- Hand totals are compared when all cards have been dealt. The higher hand total (without going above 21) wins. Tied
+hands are called a "push".
+- Card values are as follows: Numbered cards take their shown value. Picture cards (Jack, Queen, King) are worth 10.
+Aces can take the value 1 or 11.
+
+Splitting:
+
+- If the player is dealt two cards in the initial hand with the same value, they have the option to split and play them
+as two separate hands. To do so the player must match the original bet placed on the newly split hand.
+- A second card is dealt to each of the split cards and each hand is played as normal.
+
+Betting:
+
+- The player is given a starting balance of £500.
+- The minimum initial bet to play a round is £10.
+- All bets should be made in whole pounds (no pence).
+- Once the initial hand has been dealt the player has the opportunity to double down. Doubling down enables the player
+to double their initial bet but only allows them to take one further card.
+- Standard winning hands pay 1:1 (e.g. win £10 for every £10 bet).
+- Blackjack pays 3:2 (e.g. win £30 for every £20 bet).
+- Upon losing the dealer takes the player's bet.
+- No money is collected by the dealer in the event of a push.
